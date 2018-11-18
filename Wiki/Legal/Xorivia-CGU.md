@@ -96,13 +96,13 @@ Lorsqu'une telle action est nécessaire pour faire respecter les conditions gén
 Xorivia peut utiliser les cookies comme partie du processus de suivi, mais les cookies ne seront pas utilisés pour vous identifier personnellement sans votre consentement préalable.
 Si l'utilisateur décide de participer sur le forum, avec le consentement de l'utilisateur, un cookie sera émis pour garder la trace du nom d'utilisateur et du mot de passe pendant une période d'un an.
 
-## PROPRIETARY RIGHTS TO CONTENT
+## DROITS DE CONTENU
 
-User acknowledges that content, including but not limited to text, software, music, sound, photographs, video, graphics, name references or other material contained in either sponsor advertisements search results, provided to or accessed by User via the Service ("Content") by osu!, is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws; therefore, User is only permitted to use this Content as expressly authorized by the Service.
-User may not copy, reproduce, distribute, or create derivative works from this Content without expressly being authorized to do so by the Service.
+L'utilisateur reconnaît que le contenu, y compris, mais sans s'y limiter, le texte, les logiciels, la musique, le son, les photographies, les vidéos, les graphiques, les références de nom ou tout autre matériel contenu dans les résultats de recherche des publicités de commanditaires (le "Contenu"), fourni à l'utilisateur ou auquel il a accès par l'intermédiaire de Xorivia est protégé par les lois et droits d'auteur, marques déposées, marques de service, brevets ou autres droits de propriété ; l'utilisateur ne peut utiliser ce contenu que dans la mesure autorisée expressément par le service.
+L'Utilisateur ne peut copier, reproduire, distribuer ou créer des œuvres dérivées de ce Contenu sans y être expressément autorisé par le Service.
 
-## LINKS
+## LIENS
 
-osu! may provide, or Users may include in e-mail, links to other Web sites or resources.
-User acknowledges and agrees that osu! is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources.
-User agrees that osu! shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on such external sites or resources.
+Xorivia peut fournir, ou les utilisateurs peuvent inclure dans leurs courriels, des liens vers d'autres sites Web ou ressources.
+L'utilisateur reconnaît et accepte que Xorivia n'est pas responsable de la disponibilité de tels sites ou ressources externes, et n'endosse pas et n'est pas responsable du contenu, de la publicité, des produits, ou de tout autre matériel disponible sur ou à partir de ces sites ou ressources.
+L'utilisateur accepte que Xorivia ne peut être tenu responsable, directement ou indirectement, de tout dommage ou perte causé ou prétendument causé par ou en relation avec l'utilisation ou la confiance accordée à un tel contenu, biens ou services disponibles sur ces sites ou ressources externes.

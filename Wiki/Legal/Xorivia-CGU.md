@@ -79,22 +79,22 @@ Xorivia n'endosse aucune Soumission d'Utilisateur ni aucune opinion, recommandat
 Xorivia ne permet pas les activités violant les droits d'auteur et les droits de propriété intellectuelle sur son site Web, et Xorivia supprimera tout Contenu et toute Soumission de l'Utilisateur si elle est correctement notifiée que ce Contenu ou cette Soumission de l'Utilisateur viole les droits de propriété intellectuelle d'autrui.
 Xorivia se réserve le droit de supprimer le contenu et les soumissions de l'utilisateur sans préavis.
 
-## PRIVACY POLICIES
+## CONFIDENTIALITÉ
 
-osu! finds your privacy most important, and we value your use of our services.
-osu!'s services are free of any charge, no prior registration is needed for the use of these services.
-osu! will explicitly ask for information about you when such information is needed for use of the services provided by osu!.
-Any submission of any personal information is done only with your voluntary act (website), or automatically (game client software) where necessary to provide diagnostics and feedback.
-osu! keeps all private and personal information private, and does not, or will not share this information with any third parties except under the following circumstances :
+Xorivia accorde la plus grande importance à la protection de votre vie privée, et nous apprécions votre utilisation de nos services.
+Les services Xorivia sont gratuits, aucun enregistrement préalable n'est nécessaire pour l'utilisation de ces services.
+Xorivia vous demandera explicitement des informations vous concernant lorsque ces informations sont nécessaires à l'utilisation des services fournis par Xorivia
+Toute soumission d'informations personnelles n'est faite qu'à titre volontaire ou automatique lorsque cela est nécessaire pour fournir des diagnostics et des commentaires.
+Xorivia garde tous les renseignements personnels et privés confidentiels, et ne partage pas ou ne partagera pas ces renseignements avec des tiers, sauf dans les circonstances suivantes :
 
-When such action is necessary to conform to legal requirements or comply with legal process.
+Lorsqu'une telle action est nécessaire pour se conformer aux exigences légales ou aux procédures légales (*Exemple : Demande d'un tribunal avec une ordonnance délivrée par un juge*).
 
-When such action is necessary to protect and defend rights or property of osu!.
+Quand une telle action est nécessaire pour protéger et défendre les droits ou la propriété de Xorivia.
 
-When such action is necessary to enforce osu! terms and conditions of service.
+Lorsqu'une telle action est nécessaire pour faire respecter les conditions générales d'utilisation de Xorivia.
 
-osu! may use cookies as party of tracking process, but cookies will not be used to personally identify you without your prior consent.
-If the user decides to participate in the forum, with user's consent, a cookie will be issued to keep track of the username and password for the period of 1 year.
+Xorivia peut utiliser les cookies comme partie du processus de suivi, mais les cookies ne seront pas utilisés pour vous identifier personnellement sans votre consentement préalable.
+Si l'utilisateur décide de participer sur le forum, avec le consentement de l'utilisateur, un cookie sera émis pour garder la trace du nom d'utilisateur et du mot de passe pendant une période d'un an.
 
 ## PROPRIETARY RIGHTS TO CONTENT
 

@@ -65,19 +65,19 @@ Cette obligation de défense et d'indemnisation est dominante sur toute mention 
 
 ## VOTRE UTILISATION DU CONTENU SUR SITE
 
-You understand that when using the osu!, you will be exposed to User Submissions from a variety of sources, and that osu! is not responsible for the accuracy, usefulness, safety, or intellectual property rights of or relating to such User Submissions.
-You further understand and acknowledge that you may be exposed to User Submissions that are inaccurate, offensive, indecent, or objectionable, and you agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against osu! with respect thereto, and agree to indemnify and hold osu!, its Owners/Operators, affiliates, and/or licensors, harmless to the fullest extent allowed by law regarding all matters related to your use of the site.
+Vous comprenez que lorsque vous utilisez Xorivia, vous serez exposé à des soumissions d'utilisateurs provenant de diverses sources, et que Xorivia n'est pas responsable de l'exactitude, de l'utilité, de la sécurité ou des droits de propriété intellectuelle de ces soumissions d'utilisateurs ou s'y rapportant.
+Vous comprenez et reconnaissez en outre que vous pouvez être exposé à des soumissions d'utilisateur qui sont inexactes, offensantes, indécentes ou répréhensibles, et vous acceptez de renoncer et renoncez par les présentes à tout droit ou recours légal ou équitable que vous avez ou pouvez avoir contre Xorivia à cet égard, et acceptez de tenir Xorivia, ses propriétaires/agents, affiliés et/ou licencés, à couvert de la loi dans toute la mesure autorisée en ce qui a trait à votre utilisation du site, sans préjudice de tout ce qu'ils ont fait pour ce faire.
 
-## USER SUBMISSIONS AND CONTENT REMOVAL
+## SOUMISSIONS ET SUPRESSION DE CONTENU
 
-You shall be solely responsible for your own User Submissions and the consequences of posting or publishing them.
-In connection with User Submissions, you affirm, represent, and/or warrant that: you own or have the necessary licenses, rights, consents, and permissions to use and authorize osu! to use all patent, trademark, trade secret, copyright or other proprietary rights in and to any and all User Submissions to enable inclusion and use of the User Submissions in the manner contemplated by the Website and these Terms of Service.
+Vous êtes seul responsable de vos propres soumissions d'utilisateur et des conséquences de leur affichage ou de leur publication.
+En relation avec les Soumissions de l'Utilisateur, vous affirmez, déclarez et/ou garantissez que : vous possédez ou contrôlez les licences, droits, consentements et permissions nécessaires pour utiliser et autoriser Xorivia à utiliser tous les brevets, marques déposées, secrets commerciaux, droits d'auteur ou autres droits de propriété dans et à toutes les Soumissions d'Utilisateur pour permettre l'inclusion et l'utilisation des Soumissions d'Utilisateur selon les modalités envisagées par le Site Web et ces CGU.
 
-In connection with User Submissions, you further agree that you will not submit material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the material and to grant osu! all of the license rights granted herein.
+En relation avec les Soumissions d'Utilisateur, vous convenez en outre que vous ne soumettrez pas de matériel protégé par des droits d'auteur, des secrets commerciaux ou des droits de propriété de tiers, y compris les droits de confidentialité et de publicité, à moins que vous ne soyez le propriétaire de ces droits ou que vous ayez la permission de leur propriétaire légitime de publier le matériel et d'accorder Xorivia tous les droits de licence octroyés par les propriétaires du contenu soumis.
 
-osu! does not endorse any User Submission or any opinion, recommendation, or advice expressed therein, and osu! expressly disclaims any and all liability in connection with User Submissions.
-osu! does not permit copyright infringing activities and infringement of intellectual property rights on its Website, and osu! will remove all Content and User Submissions if properly notified that such Content or User Submission infringes on another's intellectual property rights.
-osu! reserves the right to remove Content and User Submissions without prior notice.
+Xorivia n'endosse aucune Soumission d'Utilisateur ni aucune opinion, recommandation ou conseil qui y sont exprimés, et Xorivia décline expressément toute responsabilité en relation avec les Soumissions d'Utilisateur.
+Xorivia ne permet pas les activités violant les droits d'auteur et les droits de propriété intellectuelle sur son site Web, et Xorivia supprimera tout Contenu et toute Soumission de l'Utilisateur si elle est correctement notifiée que ce Contenu ou cette Soumission de l'Utilisateur viole les droits de propriété intellectuelle d'autrui.
+Xorivia se réserve le droit de supprimer le contenu et les soumissions de l'utilisateur sans préavis.
 
 ## PRIVACY POLICIES
 

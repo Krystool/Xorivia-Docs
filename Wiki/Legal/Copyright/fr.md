@@ -1,34 +1,34 @@
 ---
 legal: true
 ---
-# osu! Copyright Policy
+# Politique Légale de Xorivia
 
-Last Updated 17th May 2017. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md)
+Dernière mise à jour le 18 Novembre 2018.
 
-osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
+Xorivia a adopté la politique suivante concernant la violation du droit d'auteur conformément au Digital Millennium Copyright Act, 17 U.S.C. 512.
 
-The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (http://www.copyright.gov/onlinesp/list/index.html).
-osu! takes copyright and other intellectual property rights very seriously.
+Les coordonnées de l'agent désigné de Xorivia pour recevoir l'avis de violation ("agent désigné") figurent à la fin de la présente politique.
+Xorivia prend les droits d'auteur et autres droits de propriété intellectuelle très au sérieux.
 
-It is osu!'s policy to (1) expeditiously block access to or remove content that it believes in good faith may contain material that infringes the copyrights of third parties and (2) remove and discontinue service to repeat offenders.
+La politique de Xorivia est de (1) bloquer rapidement l'accès au contenu ou de supprimer le contenu qu'elle croit de bonne foi pouvoir contenir du matériel qui viole les droits d'auteur de tiers et (2) supprimer et interrompre le service aux récidivistes.
 
-## Reporting Copyright Infringements
+## Rapporter une Infraction au Copyright
 
-If you believe that content residing on or accessible through the osu! website or service infringes your copyright, please send a notice of claimed copyright infringement containing the following information to the Designated Agent listed below (consult legal counsel or refer to 17 U.S.C. 512(c) to confirm these requirements): 
+Si vous pensez que le contenu résidant sur ou accessible par l'intermédiaire du site Web ou du service Xorivia enfreint votre droit d'auteur, veuillez envoyer un avis de violation de droit d'auteur contenant les informations suivantes au mandataire désigné ci-dessous (consultez votre conseiller juridique ou consultez 17 USC 512(c) pour confirmer ces conditions) : 
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed; 
+1. La signature physique ou électronique d'une personne autorisée à agir au nom du titulaire du droit d'auteur qui aurait été violé. ; 
 
-2. Identification of the copyrighted works claimed to have been infringed, or if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site; 
+2. Identification des œuvres protégées par le droit d'auteur présumées avoir été violées, ou si plusieurs œuvres protégées par le droit d'auteur sur un même site en ligne sont couvertes par une seule notification, une liste représentative de ces œuvres sur ce site. ; 
 
-3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit osu! to locate the material; 
+3. L'identification du contenu jugé en infraction ou être le sujet d'une activité illicite et devant être retiré ou dont l'accès doit être désactivé, et les informations permettant raisonnablement à Xorivia de localiser ce contenu. ; 
 
-4. Contact information for the notifier, such as an address, telephone number and, if available, an e-mail address; 
+4. les coordonnées du déclarant, telles qu'une adresse, un numéro de téléphone et, le cas échéant, une adresse électronique. ; 
 
-5. A statement that the notifier has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and 
+5. Une déclaration selon laquelle le déclarant croit de bonne foi que l'utilisation du matériel de la manière dont il se plaint n'est pas autorisée par le titulaire du droit d'auteur, son agent ou la loi. ; and 
 
-6. A statement that the information in the notification is accurate, and under penalty of perjury, that the notifying party is authorized to act on behalf of the owner of the copyright that is allegedly infringed.
+6. Une déclaration selon laquelle l'information contenue dans la notification est exacte, et sous peine de parjure, que la partie notifiante est autorisée à agir au nom du propriétaire du droit d'auteur qui est prétendument violé.
 
-Once a complete and proper notice of claimed copyright infringement is received by the Designated Agent, or if osu! otherwise comes to believe in good faith that a file on the osu! service may contain material that infringes copyright: 
+Une fois qu'un avis complet et approprié de violation de droit d'auteur est reçu par l'agent désigné, ou si Xorivia en vient à croire de bonne foi qu'un fichier sur le service peut contenir du matériel qui viole le droit d'auteur : 
 
 **It is osu!'s policy:**
 
@@ -55,13 +55,4 @@ Unless the copyright owner files an action seeking a court order against the con
 
 ## Designated Agent Contact Details
 
-**Email**: [copyright@ppy.sh](mailto:copyright@ppy.sh) (24 hour response guaranteed) 
-
-**Postal Address**: 
-
-```
-Dean Herbert
-41 Gregory Street
-Wembley, WA, 6014
-Australia
-```
+**Email**: [administration@xorivia.com](mailto:administration@xorivia.com++++++++++++++++++++++++++++++++) (24 hour response guaranteed) 

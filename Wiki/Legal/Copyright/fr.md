@@ -24,35 +24,35 @@ Si vous pensez que le contenu résidant sur ou accessible par l'intermédiaire d
 
 4. les coordonnées du déclarant, telles qu'une adresse, un numéro de téléphone et, le cas échéant, une adresse électronique. ; 
 
-5. Une déclaration selon laquelle le déclarant croit de bonne foi que l'utilisation du matériel de la manière dont il se plaint n'est pas autorisée par le titulaire du droit d'auteur, son agent ou la loi. ; and 
+5. Une déclaration selon laquelle le déclarant croit de bonne foi que l'utilisation du matériel de la manière dont il se plaint n'est pas autorisée par le titulaire du droit d'auteur, son agent ou la loi. ; ainsi que
 
 6. Une déclaration selon laquelle l'information contenue dans la notification est exacte, et sous peine de parjure, que la partie notifiante est autorisée à agir au nom du propriétaire du droit d'auteur qui est prétendument violé.
 
 Une fois qu'un avis complet et approprié de violation de droit d'auteur est reçu par l'agent désigné, ou si Xorivia en vient à croire de bonne foi qu'un fichier sur le service peut contenir du matériel qui viole le droit d'auteur : 
 
-**It is osu!'s policy:**
+**La politique de Xorivia nous demande :**
 
-1. to remove or disable access to the content identified in the notice of claimed infringement; 
+1. de supprimer ou de désactiver l'accès au contenu identifié dans l'avis de violation ; 
 
-2. to notify the content provider, member or user that it has removed or disabled access to the content; and 
+2. d'aviser le fournisseur de contenu, le membre ou l'utilisateur que nous avons retiré ou désactivé l'accès au contenu ; et 
 
-3. to terminate in appropriate circumstances subscribers and account holders who are repeat infringers.
+3. de supprimer, dans des circonstances appropriées, les abonnés et les titulaires de compte qui sont des contrevenants répétés.
 
-## Submitting Counter-Notices
+## Envoyer des Contre-Avis
 
-If the content provider, member or user believes that the content that was removed or to which access was disabled is not infringing, or the content provider, member or user believes that it has the right to post and use such content from the copyright owner, the copyright owner's agent, or pursuant to the law, the content provider, member or user may send a counter-notice containing the following information to the Designated Agent listed below: 
+Si le fournisseur de contenu, le membre ou l'utilisateur croit que le contenu retiré ou dont l'accès a été désactivé n'enfreint pas la loi, ou si le fournisseur de contenu, le membre ou l'utilisateur croit qu'il a le droit d'afficher et d'utiliser ce contenu du propriétaire des droits d'auteur, son agent ou, conformément à la loi, il peut envoyer un contre-avis contenant les renseignements suivants au mandataire désigné ci-dessous : 
 
-1. A physical or electronic signature of the content provider, member or user; 
+1. Une signature physique ou électronique du fournisseur de contenu, du membre ou de l'utilisateur ; 
 
-2. Identification of the content that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled; 
+2. l'identification du contenu qui a été retiré ou dont l'accès a été désactivé et l'emplacement où le matériel apparaissait avant qu'il ne soit retiré ou dont l'accès a été désactivé ; 
 
-3. A statement under penalty of perjury that the content provider, member or user has a good faith belief that the material was removed or disabled as a result of mistake or a misidentification of the material to be removed or disabled; and 
+3. Une déclaration sous peine de parjure que le fournisseur de contenu, le membre ou l'utilisateur croit de bonne foi que le matériel a été retiré ou désactivé à la suite d'une erreur ou d'une mauvaise identification du matériel à retirer ou désactiver ; ainsi que 
 
-4. Content provider's, member's or user's name, address, telephone number, and, if available, e-mail address and a statement that such person or entity consents to the jurisdiction of the Federal District Court for the judicial district in which the content provider's, member's or user's address is located, or if the Content provider's, member's or user's address is located outside the United States, for Los Angeles County, California, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement or an agent of such person.
+4. Le nom, l'adresse, le numéro de téléphone et, le cas échéant, l'adresse électronique du fournisseur de contenu, du membre ou de l'utilisateur et, le cas échéant, l'adresse électronique de la personne ou de l'entité et une déclaration selon laquelle cette personne ou entité consent à la compétence du tribunal fédéral du district judiciaire dans lequel est située l'adresse du fournisseur de contenu, du membre ou de l'utilisateur, ou si cette adresse se trouve à l'extérieur de Paris, France  et que cette personne accepte la notification de la violation ou d'une personne qui lui aura signifiée l'acte en cause ou de son représentant.
 
-If a counter-notice is received by the Designated Agent, osu! may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed content or cease disabling it in 10 business days.
-Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at osu!'s sole discretion.
+Si l'agent désigné reçoit un contre-avis, Xorivia va envoyer une copie du contre-avis à la partie plaignante initiale pour l'informer qu'elle peut remplacer le contenu retiré ou cesser de le désactiver dans les 10 jours ouvrables.
+À moins que le titulaire du droit d'auteur n'intente une action en justice contre le fournisseur de contenu, le membre ou l'utilisateur le contenu retiré peut être remplacé, ou l'accès à celui-ci restauré, dans les 10 à 14 jours ouvrables ou plus après réception du contre-avis, à la seule discrétion de Xorivia
 
-## Designated Agent Contact Details
+## Informations de Contact de l'Agent de Gestion Légale
 
-**Email**: [administration@xorivia.com](mailto:administration@xorivia.com++++++++++++++++++++++++++++++++) (24 hour response guaranteed) 
+**Email**: [anderlaxe@xorivia.com](mailto:anderlaxe@xorivia.com) (Réponse sous 24h)
